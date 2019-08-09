@@ -1,30 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my development site on GitHub
 
-You can use the [editor on GitHub](https://github.com/krisalis903/krisalis903.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am an old dog learning new tricks. This is my first time playing around in GitHub so I'm starting out with some basics. I've been a web developer in the digital marketing industry for close to 15 years now. Stagnancy is the enemy. I try to learn new things as often as I can. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+## Some bookmarks I'm saving for reference
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
